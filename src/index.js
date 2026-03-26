@@ -2,7 +2,7 @@
 // Definindo o nome do jogador
 let nome = "Fábio"
 // definindo o XP do jogador
-let XP = 9001
+let XP = 10001
 // criando um variavel para guardar no nivel do jogador
 let nivel=""
 //Criando as estruturas de decisão
