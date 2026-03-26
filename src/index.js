@@ -1,11 +1,13 @@
+//criando as variaveis
+let nome= "fabio"
+let XP= 12000
 
-// Definindo o nome do jogador
-let nome = "Fábio"
-// definindo o XP do jogador
-let XP = 10001
-// criando um variavel para guardar no nivel do jogador
 let nivel=""
-//Criando as estruturas de decisão
+
+// fazendo o laço de repetição(criando uma varivel "i", como contador, definindo a quant. de repetição conm "i<1"vai repetir apenas uma vez)
+
+for(let i=0; i<1;i++){
+
 if(XP<=1000){
     nivel=" Ferro "
 }
@@ -31,8 +33,6 @@ else{
     nivel=" Radiante "
 }
 
-//exibindo a mensagem final
-console.log("O heroi de nome "+nome+", esta no nivel de "+nivel+".")
-
-
-
+// mensagem final
+console.log("O heroi de nome "+nome+", esta no nivel de "+ nivel +".")
+}
