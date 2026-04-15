@@ -1,5 +1,6 @@
-
-
+let nome="Fabio"
+let nivel=""
+let XP=9500
 // fazendo o laço de repetição(criando uma varivel "i", como contador, definindo a quant. de repetição conm "i<1"vai repetir apenas uma vez)
 
 for(let i=0; i<1;i++){
@@ -31,3 +32,4 @@ else{
 
 // mensagem final
 console.log("O heroi de nome "+nome+", esta no nivel de "+ nivel +".")
+}
