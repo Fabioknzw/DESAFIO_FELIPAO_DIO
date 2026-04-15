@@ -35,4 +35,3 @@ else{
 
 // mensagem final
 console.log("O heroi de nome "+nome+", esta no nivel de "+ nivel +".")
-}
