@@ -9,7 +9,7 @@ function saldo_de_Rankeadas(){
 
 // declarando as variaveis
 
-let vitoria= 10
+let vitoria= 101
 let derrota= 0
 let saldoVitoria= saldo_de_Rankeadas()
 let nivel= ""
